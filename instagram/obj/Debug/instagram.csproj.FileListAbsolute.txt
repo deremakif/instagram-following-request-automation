@@ -1,0 +1,12 @@
+C:\Users\mehmet akif\Desktop\c# dosyası\İnstagram\instagram following request automation\instagram\bin\Debug\instagram.exe.config
+C:\Users\mehmet akif\Desktop\c# dosyası\İnstagram\instagram following request automation\instagram\bin\Debug\instagram.exe
+C:\Users\mehmet akif\Desktop\c# dosyası\İnstagram\instagram following request automation\instagram\bin\Debug\instagram.pdb
+C:\Users\mehmet akif\Desktop\c# dosyası\İnstagram\instagram following request automation\instagram\bin\Debug\WebDriver.dll
+C:\Users\mehmet akif\Desktop\c# dosyası\İnstagram\instagram following request automation\instagram\bin\Debug\WebDriver.Support.dll
+C:\Users\mehmet akif\Desktop\c# dosyası\İnstagram\instagram following request automation\instagram\bin\Debug\WebDriver.xml
+C:\Users\mehmet akif\Desktop\c# dosyası\İnstagram\instagram following request automation\instagram\bin\Debug\WebDriver.Support.xml
+C:\Users\mehmet akif\Desktop\c# dosyası\İnstagram\instagram following request automation\instagram\obj\Debug\instagram.csprojAssemblyReference.cache
+C:\Users\mehmet akif\Desktop\c# dosyası\İnstagram\instagram following request automation\instagram\obj\Debug\instagram.csproj.CoreCompileInputs.cache
+C:\Users\mehmet akif\Desktop\c# dosyası\İnstagram\instagram following request automation\instagram\obj\Debug\instagram.csproj.CopyComplete
+C:\Users\mehmet akif\Desktop\c# dosyası\İnstagram\instagram following request automation\instagram\obj\Debug\instagram.exe
+C:\Users\mehmet akif\Desktop\c# dosyası\İnstagram\instagram following request automation\instagram\obj\Debug\instagram.pdb
