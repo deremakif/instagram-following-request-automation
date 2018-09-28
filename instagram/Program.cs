@@ -36,7 +36,7 @@ namespace instagram
                 {
                     string s = "" + i;
 
-                    IWebElement follow = driver.FindElement(By.XPath("/html/body/span/section/main/div/ul/div/li[" + s + "]/div/div[1]/div[2]/button"));
+                    IWebElement follow = driver.FindElement(By.XPath("//*[@class='oF4XW sqdOP L3NKy']"));
                     follow.Click();
 
                     System.Threading.Thread.Sleep(3000);
