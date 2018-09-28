@@ -20,9 +20,9 @@ namespace instagram
             IWebDriver driver = new FirefoxDriver();
             driver.Navigate().GoToUrl("https://www.instagram.com/explore/people/suggested/");
 
-            // Waiting users for logging in during 30 seconds. 
+            // Waiting users for logging in during 1 minute. 
 
-            System.Threading.Thread.Sleep(30000);
+            System.Threading.Thread.Sleep(60000);
 
             IJavaScriptExecutor js = driver as IJavaScriptExecutor;
 
