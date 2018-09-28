@@ -46,10 +46,11 @@ namespace instagram
 
                     System.Threading.Thread.Sleep(3000);
                 }
-
-                driver.Navigate().Refresh();
-                // Because of Instagram's restrictions, system will be wait during 10 minutes after refreshing.
+                
+                // Because of Instagram's restrictions, system will be wait during 10 minutes before refreshing.
                 System.Threading.Thread.Sleep(600000);
+                
+                driver.Navigate().Refresh();
                 
                 j++;
             }
