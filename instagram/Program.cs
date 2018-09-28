@@ -36,7 +36,7 @@ namespace instagram
                 {
                     string s = "" + i;
 
-                    IWebElement follow = driver.FindElement(By.XPath("/html/body/span/section/main/div/ul/div/li[" + s + "]/div/div[1]/div[2]/button"));
+                    IWebElement follow = driver.FindElement(By.XPath("//*[@id='react-root']/section/main/div/ul/div/li[" + s + "]/div/div[1]/div[2]/button"));
                     follow.Click();
 
                     System.Threading.Thread.Sleep(3000);
@@ -48,8 +48,8 @@ namespace instagram
                 }
 
                 driver.Navigate().Refresh();
-                // Because of Instagram's restrictions, system will be wait during 15 minutes after refreshing.
-                System.Threading.Thread.Sleep(900000);
+                // Because of Instagram's restrictions, system will be wait during 10 minutes after refreshing.
+                System.Threading.Thread.Sleep(600000);
                 
                 j++;
             }
